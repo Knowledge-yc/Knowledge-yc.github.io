@@ -1,8 +1,0 @@
-<%
-    var categories = [];
-    page.categories.forEach(function(category){
-        categories.push('<a href="' + url_for(category.path) + '">' + category.name + '</a>');
-    });
-%>
-
-<%- categories.join('/ ') %>
