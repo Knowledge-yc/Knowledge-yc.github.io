@@ -1,0 +1,7 @@
+<!-- Search script -->
+<%- js('js/search.js') %>
+<script type="text/javascript">
+    $(function () {
+        searchFunc( <%- "'" + url_for('search.xml') + "'" %> , 'searchInput', 'searchResult');
+    });
+</script>
