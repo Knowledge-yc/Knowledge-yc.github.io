@@ -1,4 +1,4 @@
-http://example.com/2023/06/25/hello-world/
+http://example.com/2023/11/11/hello-world/
 http://example.com/2023/06/25/new_blog/
 http://example.com/about/index.html
 http://example.com/categories/index.html
